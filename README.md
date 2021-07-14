@@ -12,8 +12,12 @@ In this Challenge you find the layout of the Iphone cell phone applying POSITION
 ## Demo
 
 https://jshc27.github.io/Challenge-06-Iphone/
- 
-## License 
+
+<div>
+<img src="https://user-images.githubusercontent.com/56690309/125699940-6ba1b38d-2e01-46ab-8c2b-dd7fdefac955.jpeg" width="400px" height="400px">
+</div>
+                                                                                                                                        
+## License                                                                                                                                
 The MIT license (MIT)
 
 ## Contributions
